@@ -1,16 +1,120 @@
-## Hi there 👋
+<h2 align="center">
+  hi, i'm eric!
+</h2>
+
+<div align="center">
+  i'm currently studying <strong>mathematics of computation</strong> at ucla. i'm interested in <strong>software engineering</strong>, <strong>ai/ml</strong>, and <strong>quant trading</strong>.</br>
+  i'm also passionate about <strong>competitive math</strong> and <strong>programming.</strong></br>
+  feel free to [reach out](https://www.linkedin.com/in/eric-chen-ucla/)!
+</div>
+
+<h2 align="center">
+ my portfolio website:  
+</h2>
+
+<div align="center">
+
+<a href="https://eric-chen-portfolio.netlify.app"><img src="portfolio.png" width="100%"></a>
+
+
+<h2 align="center">
+  technologies I use:  
+  <a href="https://qtzx.dev">
+    <img align="center"
+      width="42px"
+      height="42px"
+      alt="ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ(ཀ"
+      src="warrior.png"
+    />
+  </a>
+</h2>
+
+<div align="center">
+
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://qtzx.dev)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://qtzx.dev)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://qtzx.dev)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://qtzx.dev)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://qtzx.dev)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://qtzx.dev)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://qtzx.dev)
+[![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://qtzx.dev)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://qtzx.dev)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://qtzx.dev)
+[![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://qtzx.dev)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://qtzx.dev)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://qtzx.dev)
+[![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://qtzx.dev)
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://qtzx.dev)
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://qtzx.dev)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://qtzx.dev)
+[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://qtzx.dev)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://qtzx.dev)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://qtzx.dev)
+[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://qtzx.dev)
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://qtzx.dev)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://qtzx.dev)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://qtzx.dev)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://qtzx.dev)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://qtzx.dev)
+[![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://qtzx.dev)
+[![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://qtzx.dev)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://qtzx.dev)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://qtzx.dev)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://qtzx.dev)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://qtzx.dev)
+[![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)](https://qtzx.dev)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://qtzx.dev)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://qtzx.dev)
+[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://qtzx.dev)
+[![ONNX](https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=ONNX&logoColor=white)](https://qtzx.dev)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://qtzx.dev)
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://qtzx.dev)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://qtzx.dev)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://qtzx.dev)
+[![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)](https://qtzx.dev)
+[![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://qtzx.dev)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://qtzx.dev)
+[![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://qtzx.dev)
+[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://qtzx.dev)
+[![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)](https://qtzx.dev)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://qtzx.dev)
+[![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)](https://qtzx.dev)
+</div>
 
 <!--
-**ericchen682/ericchen682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## github stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![your github stats](https://github-readme-stats.vercel.app/api?username=qtzx06&show_icons=true&theme=dark)
+
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qtzx06&layout=compact&theme=dark)
+
 -->
+
+<h2 align="center">
+ let's connect!  
+  <a href="https://qtzx.dev">
+    <img align="center"
+      width="42px"
+      height="42px"
+      alt="ƪ. ◖ƪ❍⊁◞.|◗щ (*ㅇ△₊⁎❝᷀ົཽ*ೃ:(꒡͡ ❝᷀ົཽ ꉺ¨.·*:･✧⃛(ཽ๑"
+      src="aura.png"
+    />
+  </a>
+</h2>
+
+i love connecting with fellow builders, researchers, and **curious minds**. whether you want to brainstorm a project or just geek out about tech, i'm always up for a good conversation. coffee chats, coding sessions, or quick dms, whatever works for you.
+
+**research collaborations** • **open source projects** • **hackathon teams** • **tech discussions**
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@qtzx06/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joshualin06/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshualin3806@gmail.com) 
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/qtzx06/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qtzx06/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/qtzx06)
+
+</div>
