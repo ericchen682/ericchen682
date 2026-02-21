@@ -5,7 +5,7 @@
 <div align="center">
   i'm currently studying <strong>mathematics of computation</strong> at ucla. i'm interested in <strong>software engineering</strong>, <strong>ai/ml</strong>, and <strong>quant trading</strong>.</br>
   i'm also passionate about <strong>competitive math</strong> and <strong>programming.</strong></br>
-  feel free to<a href = "https://www.linkedin.com/in/eric-chen-ucla/"> reach out</a>!
+  feel free to <a href = "https://www.linkedin.com/in/eric-chen-ucla/">reach out</a>!
 </div>
 
 <h2 align="center">
