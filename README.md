@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<a href="https://eric-chen-portfolio.netlify.app"><img src="portfolio.png" width="100%"></a>
+<a href="https://ericchen682.github.io/personal-portfolio/"><img src="portfolio.png" width="100%"></a>
 
 <!--
 
